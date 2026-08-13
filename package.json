@@ -1,0 +1,8 @@
+{
+  "name": "inazuma-contracts",
+  "version": "0.1.0",
+  "description": "WASM smart-contract examples, host ABI docs and deploy scripts for the Inazuma layer-1 chain.",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": { "@inazuma/sdk": "github:inazuma-network/inazuma-sdk" }
+}
